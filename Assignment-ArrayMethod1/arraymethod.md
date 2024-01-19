@@ -1,5 +1,3 @@
-18.map 19.pop 20.reduce 21.slice 22.some
-
 1.  `concat`
 
     - Parameter: n (any) number of values (number, string, boolean, array, null, undefined, object and function etc)
